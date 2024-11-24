@@ -1,0 +1,28 @@
+|--- ['Chi0n' <class 'numpy.float64'>] <= 21.33
+|   |--- ['SMR_VSA9' <class 'numpy.float64'>] <= 25.77
+|   |   |--- ['fr_C_O' <class 'numpy.float64'>] <= 2.50
+|   |   |   |--- ['NumAromaticRings' <class 'numpy.float64'>] <= 3.50
+|   |   |   |   |--- ['EState_VSA4' <class 'numpy.float64'>] <= 20.77
+|   |   |   |   |   |--- ['EState_VSA2' <class 'numpy.float64'>] <= 30.94
+|   |   |   |   |   |   |--- ['fr_amidine' <class 'numpy.float64'>] <= 0.50
+|   |   |   |   |   |   |   |--- ['fr_NH1' <class 'numpy.float64'>] <= 0.50
+|   |   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |   |   |--- ['fr_NH1' <class 'numpy.float64'>] >  0.50
+|   |   |   |   |   |   |   |   |--- class: True
+|   |   |   |   |   |   |--- ['fr_amidine' <class 'numpy.float64'>] >  0.50
+|   |   |   |   |   |   |   |--- class: False
+|   |   |   |   |   |--- ['EState_VSA2' <class 'numpy.float64'>] >  30.94
+|   |   |   |   |   |   |--- class: False
+|   |   |   |   |--- ['EState_VSA4' <class 'numpy.float64'>] >  20.77
+|   |   |   |   |   |--- class: True
+|   |   |   |--- ['NumAromaticRings' <class 'numpy.float64'>] >  3.50
+|   |   |   |   |--- class: False
+|   |   |--- ['fr_C_O' <class 'numpy.float64'>] >  2.50
+|   |   |   |--- class: False
+|   |--- ['SMR_VSA9' <class 'numpy.float64'>] >  25.77
+|   |   |--- class: False
+|--- ['Chi0n' <class 'numpy.float64'>] >  21.33
+|   |--- ['MinPartialCharge' <class 'numpy.float64'>] <= -0.46
+|   |   |--- class: False
+|   |--- ['MinPartialCharge' <class 'numpy.float64'>] >  -0.46
+|   |   |--- class: True

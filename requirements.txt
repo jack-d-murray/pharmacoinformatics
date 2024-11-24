@@ -1,0 +1,22 @@
+# Lists versions of all packages used as part of this project
+
+pandas==2.2.2
+numpy==1.26.4
+chembl_structure_pipeline==1.2.2
+rdkit==2024.3.3
+bs4==0.0.2
+chembl_webresource_client==0.10.9
+pubchempy==1.0.4
+requests==2.32.2
+pdfminer==20191125
+regex==2023.10.3
+scikit-learn==1.4.2
+matplotlib==3.8.4
+descriptastorus==2.6.1
+mordred==1.2.0
+scipy==1.13.1
+IPython==8.25.0
+networkx==2.8.8
+mlxtend==0.23.1
+rpy2==3.5.16
+arulespy==0.1.4
