@@ -15,6 +15,7 @@ curated databases, including PubChem and ChEMBL, were integrated through program
   - <b>excipient_selection.ipynb</b>: Exploratory hypothesis testing and association rule learning applied to formulation data.
   - <b>fa_model.ipynb</b>: Constructing binary classifiers of human oral fraction absorbed.
   - <b>constructiontools.py</b>: Module containing functions used in database_construction to enhance readability.
+  - <b>curation_guidelines.pdf</b>: General rules for curating excipients. Note that decisions were also made on a case-by-case basis. 
 - <b>pharmacoinformatics_database</b>: Final database consisting of five `.csv` file linked by drug, excipient, and product identifiers. Includes `data_dictionary.csv`.
 - <b>results</b>: Output directory for files describing the results of analysis.    
 - <b>csv_files</b>: Intermediate `.csv` files used for manual curation steps.
@@ -36,7 +37,7 @@ Contributions are always welcome, please feel free to reach out with any suggest
 1. School of Pharmacy, University College Cork, Ireland
 
 ## Reference
-Manuscript submitted to *Molecular Pharmaceutics* Virtual Special Issue: Computational Methods in Drug Delivery
+Manuscript submitted and under review in *Molecular Pharmaceutics* Virtual Special Issue: Computational Methods in Drug Delivery
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
