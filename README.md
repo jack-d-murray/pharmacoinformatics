@@ -1,4 +1,4 @@
-# Pharmacoinformatics Respository to Support Drug Product Development.
+# Pharmacoinformatics Respository
 This page shares the code and data associated with the submitted manuscript, *"Establishing a Pharmacoinformatics Repository of Approved Medicines: A Database to Support Drug Product Development"*, The manuscript is currently under review. 
 
 [Explore the database without any code using the Streamlit App.](https://pharmacoinformatics.streamlit.app/)
