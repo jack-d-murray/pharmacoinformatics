@@ -37,7 +37,7 @@ Contributions are always welcome, please feel free to reach out with any suggest
 1. School of Pharmacy, University College Cork, Ireland
 
 ## Reference
-Manuscript submitted and under review in *Molecular Pharmaceutics* Virtual Special Issue: Computational Methods in Drug Delivery
+The [paper](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.4c00991) associated with this repository is published in *Molecular Pharmaceutics*.
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
